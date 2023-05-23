@@ -1,3 +1,8 @@
-To run, you will need to use IntelliJ IDEA
-unzip the file, you will have the file projectFinal.zip to unzip as well
-Open the folder in IntelliJ IDEA and build/run
+To run, you will need to use the terminal/command line
+unzip the file, you will have the file Breakout.py
+Open the terminal/command line and use python3 Breakout.py to run it
+
+You may need to install tkinter, pysimplegui to do so:
+pip3 install pysimplegui 
+and 
+pip3 install tk
