@@ -1,5 +1,5 @@
-To Run this file, you will need Android Studio. 
-Then unzip this file and open it.
-The purpose of this mobile application project was to
-create a personalized functional calculator as a way 
-to get familiar with Kotlin and using Android Studio.
+To Run this file, you will need preferably IntelliJ IDEA 
+First unzip this project file and then open with the IntelliJ IDEA
+
+This project's purpose is to provide a demo of a basic scheduling software using Java.
+Intended to be used by a local barbershop business to manage its business needs.
